@@ -1,0 +1,10 @@
+[
+    {
+      "name": "React",
+      "image": "./Data/react.svg"
+    },
+    {
+      "name": "Jane Doe",
+      "image": "https://example.com/jane-doe.jpg"
+    }
+  ]
