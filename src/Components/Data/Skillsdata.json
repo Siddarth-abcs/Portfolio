@@ -1,10 +1,50 @@
 [
     {
-      "name": "React",
-      "image": "./Data/react.svg"
+      "name": "HTML",
+      "image": "https://raw.githubusercontent.com/Siddarth-abcs/Portfolio/40518cddc73bb1121f893743a1ac71dbc5012941/src/Components/Data/html.svg"
     },
     {
-      "name": "Jane Doe",
-      "image": "https://example.com/jane-doe.jpg"
+      "name": "CSS",
+      "image": "https://raw.githubusercontent.com/Siddarth-abcs/Portfolio/28cc7ebae48bd800fa2cffa2d9969c4defc3afab/src/Components/Data/css.svg"
+    },
+    {
+      "name": "BOOTSTRAP",
+      "image": "https://raw.githubusercontent.com/Siddarth-abcs/Portfolio/40518cddc73bb1121f893743a1ac71dbc5012941/src/Components/Data/bootstrap.svg"
+    },
+    {
+      "name": "SASS/SCSS",
+      "image": "https://raw.githubusercontent.com/Siddarth-abcs/Portfolio/40518cddc73bb1121f893743a1ac71dbc5012941/src/Components/Data/sass.svg"
+    }
+    ,    {
+      "name": "TAILWIND",
+      "image": "https://raw.githubusercontent.com/Siddarth-abcs/Portfolio/40518cddc73bb1121f893743a1ac71dbc5012941/src/Components/Data/tailwind.svg"
+    },
+    {
+      "name": "REDUX",
+      "image": "https://raw.githubusercontent.com/Siddarth-abcs/Portfolio/40518cddc73bb1121f893743a1ac71dbc5012941/src/Components/Data/redux.svg"
+    },
+    {
+      "name": "JAVASCRIPT",
+      "image": "https://raw.githubusercontent.com/Siddarth-abcs/Portfolio/40518cddc73bb1121f893743a1ac71dbc5012941/src/Components/Data/javascript.svg"
+    },
+    {
+      "name": "JQUERY",
+      "image": "https://raw.githubusercontent.com/Siddarth-abcs/Portfolio/40518cddc73bb1121f893743a1ac71dbc5012941/src/Components/Data/jquery.svg"
+    },
+    {
+      "name": "REACT",
+      "image": "https://raw.githubusercontent.com/Siddarth-abcs/Portfolio/40518cddc73bb1121f893743a1ac71dbc5012941/src/Components/Data/react.svg"
+    },
+    {
+      "name": "NODE.JS",
+      "image": "https://raw.githubusercontent.com/Siddarth-abcs/Portfolio/40518cddc73bb1121f893743a1ac71dbc5012941/src/Components/Data/node.svg"
+    },
+    {
+      "name": "GIT",
+      "image": "https://raw.githubusercontent.com/Siddarth-abcs/Portfolio/40518cddc73bb1121f893743a1ac71dbc5012941/src/Components/Data/git.svg"
+    },
+    {
+      "name": "GITHUB",
+      "image": "https://raw.githubusercontent.com/Siddarth-abcs/Portfolio/f2cd7c1036ee8135dd76d0b42bda5c60b420c183/src/Components/Data/github.svg"
     }
   ]
