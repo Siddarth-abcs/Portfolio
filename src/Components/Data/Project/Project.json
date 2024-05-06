@@ -1,5 +1,38 @@
 [
     {
-        "url":""
+        "url":"https://raw.githubusercontent.com/Siddarth-abcs/Portfolio/main/src/Components/Data/Project.png",
+        "logo":"https://www.karishma.dev/projects/explord/linkLogo.svg",
+        "name":"EXPLORD",
+        "description":"Blog website for a US-based company using WordPress, incorporating stunning UI design and adhering to SEO best practices. Additionally, I seamlessly integrated Google Analytics for valuable insights into user behavior and content performance.",
+        "builtwith":"Next.js, TypeScript, Tailwind CSS, MongoDB, SendGrid",
+        "viewcode":"https://www.google.co.in/imghp?hl=en&authuser=0&ogbl",
+        "viewsite":"https://www.siddart.com/"
+    },
+    {
+        "url":"https://raw.githubusercontent.com/Siddarth-abcs/Portfolio/main/src/Components/Data/Project.png",
+        "logo":"https://www.karishma.dev/projects/explord/linkLogo.svg",
+        "name":"EXPLORD",
+        "description":"Blog website for a US-based company using WordPress, incorporating stunning UI design and adhering to SEO best practices. Additionally, I seamlessly integrated Google Analytics for valuable insights into user behavior and content performance.",
+        "builtwith":"Next.js, TypeScript, Tailwind CSS, MongoDB, SendGrid",
+        "viewcode":"https://www.google.co.in/imghp?hl=en&authuser=0&ogbl",
+        "viewsite":"https://www.siddart.com/"
+    },
+    {
+        "url":"https://raw.githubusercontent.com/Siddarth-abcs/Portfolio/main/src/Components/Data/Project.png",
+        "logo":"https://www.karishma.dev/projects/explord/linkLogo.svg",
+        "name":"EXPLORD",
+        "description":"Blog website for a US-based company using WordPress, incorporating stunning UI design and adhering to SEO best practices. Additionally, I seamlessly integrated Google Analytics for valuable insights into user behavior and content performance.",
+        "builtwith":"Next.js, TypeScript, Tailwind CSS, MongoDB, SendGrid",
+        "viewcode":"https://www.google.co.in/imghp?hl=en&authuser=0&ogbl",
+        "viewsite":"https://www.siddart.com/"
+    },
+    {
+        "url":"https://raw.githubusercontent.com/Siddarth-abcs/Portfolio/main/src/Components/Data/Project.png",
+        "logo":"https://www.karishma.dev/projects/explord/linkLogo.svg",
+        "name":"EXPLORD",
+        "description":"Blog website for a US-based company using WordPress, incorporating stunning UI design and adhering to SEO best practices. Additionally, I seamlessly integrated Google Analytics for valuable insights into user behavior and content performance.",
+        "builtwith":"Next.js, TypeScript, Tailwind CSS, MongoDB, SendGrid",
+        "viewcode":"https://www.google.co.in/imghp?hl=en&authuser=0&ogbl",
+        "viewsite":"https://www.siddart.com/"
     }
 ]

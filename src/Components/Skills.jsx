@@ -3,8 +3,8 @@ import Skillsdata from './Data/Skillsdata.json'
 
 export const Skills = () => {
   return (
-      <div className='bg-sky-100 h-[90vh]'>
-      <div className='w-5/6 m-auto mb-16  '>
+      <div className='bg-sky-100 h-[90vh] py-20'>
+      <div className='w-5/6 m-auto mb-16'>
       <h1 className='text-6xl my-16 leading-10 font-medium text-left'>Check Out My Tech Stack</h1>
       <div className="mt-24 grid grid-cols-4 gap-x-0 gap-y-12">
       {Skillsdata.map((person, index) => (
