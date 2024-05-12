@@ -13,8 +13,8 @@ export const About = () => {
               <img className='h-36' src={LOGO1} alt='logo hai'/>
           </div>
           <div className='text-2xl text-right'>
-          Find me on <a href='https://github.com/Siddarth-abcs' target='._blank' className='font-medium underline'>GitHub</a>,<a href='https://www.instagram.com/developer_siddarth/' className='font-medium underline'> Instagram</a>, and <span className='font-medium underline'>Twitter.</span> <br />
-          Download <span className='font-medium underline'>my resume</span> (PDF, 952 kb)
+          Find me on <a href='https://github.com/Siddarth-abcs' target='._blank' className='font-medium underline'>GitHub</a>,<a href='https://www.instagram.com/developer_siddarth/' target='._blank' className='font-medium underline'> Instagram</a>, and <span className='font-medium underline'>Twitter.</span> <br />
+          Download <a href='https://drive.google.com/file/d/1jItMo6kbZifa3ZRRG0WNr4X5Hm1HFtMG/view?usp=drive_link' target='._blank' className='font-medium underline'>my resume</a> (PDF, 952 kb)
           </div>
           </div>
 
