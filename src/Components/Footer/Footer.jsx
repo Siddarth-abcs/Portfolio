@@ -14,9 +14,8 @@ export const Footer = ({ scrollToTop }) => {
             <h4 className='leading-10 font-medium'>© 2024 Siddarth.dev. All rights reserved</h4>
         </div>
         <div className='grid grid-cols-3 items-center gap-3'>
-            <img src={github} alt="" />
-            <img src={Linkdin} alt="" />
-            <img src={Instagram} alt="" />
+            <a href="https://github.com/Siddarth-abcs" target='__blank'><img src={github} alt="" /></a>
+            <a href="https://www.instagram.com/developer_siddarth" target='__blank'><img src={Instagram} alt="" /></a>
         </div>
         <button className="h-12 bg-blue-400 text-white px-4 py-2" onClick={scrollToTop}>
             BACK TO THE TOP

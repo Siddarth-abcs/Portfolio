@@ -1,38 +1,38 @@
 [
     {
-        "url":"https://raw.githubusercontent.com/Siddarth-abcs/Portfolio/main/src/Components/Data/Project.png",
-        "logo":"https://www.karishma.dev/projects/explord/linkLogo.svg",
-        "name":"EXPLORD",
-        "description":"Blog website for a US-based company using WordPress, incorporating stunning UI design and adhering to SEO best practices. Additionally, I seamlessly integrated Google Analytics for valuable insights into user behavior and content performance.",
-        "builtwith":"Next.js, TypeScript, Tailwind CSS, MongoDB, SendGrid",
-        "viewcode":"https://www.google.co.in/imghp?hl=en&authuser=0&ogbl",
-        "viewsite":"https://www.siddart.com/"
+        "url":"https://rest-countries-api-with-color-theme-switcher-vert.vercel.app/",
+        "logo":"Rest-Api",
+        "name":"Rest-Countries-Api",
+        "description":"Country App website for a Frontend Challange using React, incorporating stunning UI design and adhering to SEO best practices. Additionally.",
+        "builtwith":"Vite.js, Tailwind CSS, Json, Rest Api",
+        "viewcode":"https://github.com/Siddarth-abcs/REST-Countries-API-with-color-theme-switcher.git",
+        "viewsite":"https://rest-countries-api-with-color-theme-switcher-vert.vercel.app/"
     },
     {
-        "url":"https://raw.githubusercontent.com/Siddarth-abcs/Portfolio/main/src/Components/Data/Project.png",
-        "logo":"https://www.karishma.dev/projects/explord/linkLogo.svg",
-        "name":"EXPLORD",
-        "description":"Blog website for a US-based company using WordPress, incorporating stunning UI design and adhering to SEO best practices. Additionally, I seamlessly integrated Google Analytics for valuable insights into user behavior and content performance.",
-        "builtwith":"Next.js, TypeScript, Tailwind CSS, MongoDB, SendGrid",
-        "viewcode":"https://www.google.co.in/imghp?hl=en&authuser=0&ogbl",
-        "viewsite":"https://www.siddart.com/"
+        "url":"https://commarceapp.vercel.app/",
+        "logo":"https://commarceapp.vercel.app/assets/Exclusive-Bf6LGBxW.svg",
+        "name":"EXclusive",
+        "description":"Shoping website for a Portfolio in 4Day using Vite js, incorporating stunning UI design and adhering to SEO best practices. Additionally, Please Click View Site 😊.",
+        "builtwith":"Vite.js, Tailwind CSS, Json, Swiper.js, Ai",
+        "viewcode":"https://github.com/Siddarth-abcs/Commarceapp.git",
+        "viewsite":"https://commarceapp.vercel.app/"
     },
     {
-        "url":"https://raw.githubusercontent.com/Siddarth-abcs/Portfolio/main/src/Components/Data/Project.png",
-        "logo":"https://www.karishma.dev/projects/explord/linkLogo.svg",
-        "name":"EXPLORD",
-        "description":"Blog website for a US-based company using WordPress, incorporating stunning UI design and adhering to SEO best practices. Additionally, I seamlessly integrated Google Analytics for valuable insights into user behavior and content performance.",
-        "builtwith":"Next.js, TypeScript, Tailwind CSS, MongoDB, SendGrid",
-        "viewcode":"https://www.google.co.in/imghp?hl=en&authuser=0&ogbl",
-        "viewsite":"https://www.siddart.com/"
+        "url":"https://advice-generator-app-main-sand.vercel.app/",
+        "logo":"https://raw.githubusercontent.com/Siddarth-abcs/advice-generator-app-main/3af7386eb50ce9a41ca7300a3c8c45def79c3772/images/icon-dice.svg",
+        "name":"Advice-Generator",
+        "description":"Advice Generator website for a Frontend Challange using React, incorporating stunning UI design and adhering to SEO best practices. Additionally.",
+        "builtwith":"Vite.js, Api, Tailwind CSS, Ai",
+        "viewcode":"https://github.com/Siddarth-abcs/advice-generator-app-main.git",
+        "viewsite":"https://advice-generator-app-main-sand.vercel.app/"
     },
     {
-        "url":"https://raw.githubusercontent.com/Siddarth-abcs/Portfolio/main/src/Components/Data/Project.png",
-        "logo":"https://www.karishma.dev/projects/explord/linkLogo.svg",
-        "name":"EXPLORD",
-        "description":"Blog website for a US-based company using WordPress, incorporating stunning UI design and adhering to SEO best practices. Additionally, I seamlessly integrated Google Analytics for valuable insights into user behavior and content performance.",
-        "builtwith":"Next.js, TypeScript, Tailwind CSS, MongoDB, SendGrid",
-        "viewcode":"https://www.google.co.in/imghp?hl=en&authuser=0&ogbl",
-        "viewsite":"https://www.siddart.com/"
+        "url":"https://siddarth-abcs.github.io/Iptracker/",
+        "logo":"Ip tracker",
+        "name":"Iptracker",
+        "description":"Iptracker App website for a Frontend Challange using Html Css Javascript, incorporating stunning UI design and adhering to SEO best practices. Additionally.",
+        "builtwith":"HTML, CSS, Javascript, Fetch Api, Tailwind CSS",
+        "viewcode":"https://github.com/Siddarth-abcs/Iptracker.git",
+        "viewsite":"https://siddarth-abcs.github.io/Iptracker/"
     }
 ]

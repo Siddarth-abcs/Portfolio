@@ -13,7 +13,7 @@ export const Contact = () => {
           <h1 className='text-4xl my-6 font-medium'>Let's build something extraordinary together!</h1>
           <p className='text-[1.25rem]'>Are you looking for someone who can turn your creative ideas into engaging digital experiences?</p>
           <div class="hover:bg-black hover:pr-1 w-4/6 my-6">
-          <a href="" target='_blank' class="text-3xl bg-blue-400 text-white flex items-center justify-center w-full py-4 text-sm font-medium leading-6 capitalize duration-100 transform border-2 rounded-sm cursor-pointer focus:ring-opacity-50 focus:outline-none sm:w-auto sm:px-6 border-text  hover:shadow-lg hover:-translate-y-1">
+          <a href="mailto:siddarthabcs@gmail.com" target='_blank' class="text-3xl bg-blue-400 text-white flex items-center justify-center w-full py-4 text-sm font-medium leading-6 capitalize duration-100 transform border-2 rounded-sm cursor-pointer focus:ring-opacity-50 focus:outline-none sm:w-auto sm:px-6 border-text  hover:shadow-lg hover:-translate-y-1">
           SEND A MESSAGE
           </a>
           </div>

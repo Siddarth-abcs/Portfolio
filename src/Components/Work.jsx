@@ -11,12 +11,12 @@ export const Work = () => {
       <div className='w-5/6 m-auto flex' key={index}>
         {/* image part */}
         <div className='h-[96vh] shadow-[0px_4px_16px_rgba(17,17,26,0.1),_0px_8px_24px_rgba(17,17,26,0.1),_0px_16px_56px_rgba(17,17,26,0.1)]'>
-          <img className='bg-cover h-[96vh]' src={project.url} alt="" />
+          <iframe className='w-[40vw] h-full'  src={project.url} frameborder="0" scrolling="no"></iframe>
         </div>
         {/* Text Part */}
         <div className='h-[96vh] w-3/6 ml-12 leading-8 flex flex-col justify-center'>
           {/* Text Part1 */}
-          <img className='ml-auto' src={project.logo} alt="" />
+          <img className='ml-auto text-2xl font-bold' src={project.logo} alt={project.logo} />
           {/* text part2 */}
           <div>
             <h1 className='text-4xl font-bold my-6'>{project.name}</h1>
