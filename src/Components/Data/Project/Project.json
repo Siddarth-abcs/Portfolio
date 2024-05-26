@@ -1,14 +1,5 @@
 [
     {
-        "url":"https://rest-countries-api-with-color-theme-switcher-vert.vercel.app/",
-        "logo":"Rest-Api",
-        "name":"Rest-Countries-Api",
-        "description":"Country App website for a Frontend Challange using React, incorporating stunning UI design and adhering to SEO best practices. Additionally.",
-        "builtwith":"Vite.js, Tailwind CSS, Json, Rest Api",
-        "viewcode":"https://github.com/Siddarth-abcs/REST-Countries-API-with-color-theme-switcher.git",
-        "viewsite":"https://rest-countries-api-with-color-theme-switcher-vert.vercel.app/"
-    },
-    {
         "url":"https://commarceapp.vercel.app/",
         "logo":"https://commarceapp.vercel.app/assets/Exclusive-Bf6LGBxW.svg",
         "name":"EXclusive",
